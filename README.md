@@ -31,6 +31,6 @@ Instagram : [Coshgyn](http://instagram.com/coshgyn)
 Github : 
 Telegram : [JeLuxe](http://telegram.com/mrjeluxe)
 Credits
-http://telegram.com/JLBots - automatic!
-[JLBots](http://telegram.com/JLBots)
+http://telegram.me/JLBots - automatic!
+[JLBots](http://telegram.me/JLBots)
 Thanks for AbhijithNT for his wonderful Repository```
