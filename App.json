@@ -1,6 +1,6 @@
 ",
     "logo":"https://telegra.ph/Logo-08-11",
-    "repository": "https://github.com/DeccanBotz/QRCode/",
+    "repository": "https://github.com/joshgyn/JLBots/blob/52d63569ee84d0f1f4ae3267fba04bbaedee6b48/Bot.py",
     "keywords": ["MrJeLuxe", "qrcode-scanner", "qrcode-generator","telegram bot"],
     "env": {
        "API_HASH": {
