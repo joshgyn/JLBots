@@ -1,0 +1,31 @@
+",
+    "logo":"https://telegra.ph/Logo-08-11",
+    "repository": "https://github.com/DeccanBotz/QRCode/",
+    "keywords": ["MrJeLuxe", "qrcode-scanner", "qrcode-generator","telegram bot"],
+    "env": {
+       "API_HASH": {
+        "description": " https://my.telegram.org/apps-dan aldığın APİ_HASH",
+        "value": ""
+      },
+      "API_ID": {
+        "description": "  https://my.telegram.org/apps-dan aldığın API_ID",
+        "value": ""
+      },
+      "TOKEN": {
+        "description": " @Botfather-dən aldığın Bot Tokenin",
+        "value": ""
+      },
+      "OWNER": {
+        "description": "Sənin istifadəçi adın  @ olmadan  ",
+        "value": ""
+      }
+     },
+     "buildpacks": [
+      {
+        "url": "heroku/python"
+      },
+      {
+        "url": "https://github.com/heroku/heroku-buildpack-apt.git"
+      }
+    ]
+  }
