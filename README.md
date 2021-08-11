@@ -1,4 +1,4 @@
-A Telegram Bot to Generate & Scan QR Codes
+```A Telegram Bot to Generate & Scan QR Codes
 
 
 
@@ -27,9 +27,9 @@ help - To Know How to use me
    
 
 Follow us on
-Instagram : coshgyn
-Github : DeccanBotz
-Telegram : MrJeLuxe
+Instagram : [Coshgyn](http://instagram.com/coshgyn)
+Github : 
+Telegram : [JeLuxe](http://telegram.com/mrjeluxe)
 Credits
-JLBots
-Thanks for AbhijithNT for his wonderful Repository
+[JLBots](http://t.me/JLBots)
+Thanks for AbhijithNT for his wonderful Repository```
